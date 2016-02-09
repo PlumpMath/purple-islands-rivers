@@ -1,7 +1,7 @@
 # purple-islands-rivers
 
 A Quil sketch designed to explore the idea that 'regularity would tend to be
-modulated out by the eye' inspired by [Knuth, 1987][https://youtu.be/LftaV1XLvrE?t=42m50s]
+modulated out by the eye' inspired by [Knuth, 1987](https://youtu.be/LftaV1XLvrE?t=42m50s)
 
 ## Usage
 
